@@ -160,10 +160,9 @@ CASH   = 5,000
 * Trigger rebalance API
 * Verify generated actions
 
----
-
+```
 ## 📂 Package Structure
-
+```
  com.investment_portfolio_service
 ├── InvestmentPortfolioServiceApplication.java
 ├── config
@@ -202,7 +201,7 @@ CASH   = 5,000
 └── util
 └── JwtUtil.java
 
----
+```
 
 ## 📘 Sample API Endpoints
 
