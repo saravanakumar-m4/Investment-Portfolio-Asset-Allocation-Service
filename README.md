@@ -162,7 +162,7 @@ CASH   = 5,000
 
 ```
 ## 📂 Package Structure
-```
+
  com.investment_portfolio_service
 ├── InvestmentPortfolioServiceApplication.java
 ├── config
