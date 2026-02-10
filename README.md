@@ -47,7 +47,7 @@ This project is designed to demonstrate **core backend engineering skills** usin
 - Swagger API documentation
 
 -
-- ## 🔐 Security
+## 🔐 Security
 
 - JWT-based authentication
 - Stateless REST APIs
