@@ -24,13 +24,37 @@ This project is designed to demonstrate **core backend engineering skills** usin
 * **Spring Boot**
 * **Spring Web (REST APIs)**
 * **Spring Data JPA**
-* **H2 / MySQL (configurable)**
+* **PostgreSQL**
 * **JUnit 5** (unit testing)
 * **Spring Security - JWT**
 * **Swagger / OpenAPI**
 * **Maven**
 
 ---
+## 🚀 Key Features
+
+- User portfolio creation and management
+- Asset allocation based on **risk profile**
+- Automatic **rebalancing engine**
+- Supports multiple asset classes:
+  - Equity
+  - Debt
+  - Gold
+  - Cash
+- Buy / Sell action generation
+- Secure APIs using **JWT Authentication**
+- RESTful design with clean layered architecture
+- Swagger API documentation
+
+-
+- ## 🔐 Security
+
+- JWT-based authentication
+- Stateless REST APIs
+- Secured endpoints
+- Custom filters:
+  - `JwtFilter`
+  - `JwtUtil`
 
 ## 🧩 Core Modules & Responsibilities
 
